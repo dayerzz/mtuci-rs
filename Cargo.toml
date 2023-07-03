@@ -4,6 +4,5 @@ members = [
     "ch2",
     "calculator",
     "homework1",
-    "homework2",
-    "fizzbuzz"
+    "homework2"
 ]
